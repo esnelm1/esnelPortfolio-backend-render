@@ -8,7 +8,6 @@ esnelmassaro\SpringBoot\repository\ExperienciaRepository.class
 esnelmassaro\SpringBoot\Controller\EducacionController.class
 esnelmassaro\SpringBoot\service\EducacionService.class
 esnelmassaro\SpringBoot\Controller\PersonaController.class
-.netbeans_automatic_build
 esnelmassaro\SpringBoot\Application.class
 esnelmassaro\SpringBoot\model\Educacion.class
 esnelmassaro\SpringBoot\WebConfig.class
